@@ -1,5 +1,5 @@
 import { Component } from 'react';
-import { DataSet } from 'vis-data/esnext';
+import { DataSet } from 'vis-data/standalone';
 import type { DateType, IdType, Timeline as VisTimeline, TimelineGroup, TimelineItem, TimelineOptions } from 'vis-timeline/types';
 import 'vis-timeline/styles/vis-timeline-graph2d.min.css';
 import type { CustomTime, SelectionOptions, TimelineEventsHandlers } from './models';

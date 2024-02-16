@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { DataSet } from 'vis-data/esnext';
+import { DataSet } from 'vis-data/standalone';
 import { Timeline as VisTimelineCtor } from 'vis-timeline/standalone';
 import type {
 	DateType,
