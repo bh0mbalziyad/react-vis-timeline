@@ -1,9 +1,9 @@
 {
 	"name": "react-vis-timeline",
-	"version": "2.0.4",
+	"version": "2.0.5",
 	"description": "React component for the vis-timeline module",
-	"main": "build/index.js",
-	"types": "build/index.d.ts",
+	"main": "lib/index.js",
+	"types": "lib/index.d.ts",
 	"scripts": {
 		"prettier": "prettier --write \"./{src,examples}/**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
 		"prettier-check": "prettier -l \"./{src,examples}/**/*.{js,jsx,ts,tsx,json,css,scss,md}\"",
